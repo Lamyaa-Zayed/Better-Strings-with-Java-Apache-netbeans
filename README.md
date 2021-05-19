@@ -1,0 +1,2 @@
+# Better-Strings-with-Java-Apache-netbeans
+Your goal is to make a method called betterString that takes two Strings and a lambda that says whether the first of the two is “better”.  The method should return that better String; i.e., if the function given by the lambda returns true, the betterString method should return the first String, otherwise betterString should return the second String. Given a String, the task is to check whether a string contains only alphabets or not.  use isLetter() method of Character class.
